@@ -1,5 +1,5 @@
 # Overview
-Customer store backed w/ swagger 
+Customer store backend w/ swagger 
 
 # Requirements
  - API listing all customers
