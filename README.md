@@ -1,5 +1,5 @@
 # Overview
-This exercise is intentionally left open ended.  Within you will find a skeleton code base and a JSON file.  This JSON file is to be used as your datastore.
+Customer store backed w/ swagger 
 
 # Requirements
  - API listing all customers
